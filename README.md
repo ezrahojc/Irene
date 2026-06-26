@@ -2,8 +2,6 @@
 
 A static, GitHub Pages-ready birthday website with a cute sunflower theme, animated petals, confetti, an interactive wish jar, a click-to-grow sunflower garden, photo placeholders, birthday coupons, and a secret love note.
 
-https://ezrahojc.github.io/Irene/
-
 ## Files
 
 ```text
